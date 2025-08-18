@@ -2,10 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot built with LangChain, HuggingFace transformers, and Chroma vector database. This project demonstrates a complete RAG pipeline for document-based question answering.
 
-**Bootcamp:** NSK AI RAG Bootcamp 2025
-
-> 📥 **Download Instructions**: Right-click anywhere in this content area and select "Save as..." or copy the entire content and save it as `README.md` in your project directory.
-
 ## 🎯 Project Overview
 
 This RAG chatbot can answer questions based on PDF documents by:
